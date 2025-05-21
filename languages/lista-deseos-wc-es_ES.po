@@ -1,0 +1,51 @@
+# Traducción de Lista de Deseos para WooCommerce
+# Proyecto: Lista de Deseos WooCommerce
+# Autor: Cristch-X
+msgid ""
+msgstr ""
+"Project-Id-Version: Lista de Deseos WooCommerce 1.2.0\n"
+"Report-Msgid-Bugs-To: https://minitownbay.com/soporte\n"
+"POT-Creation-Date: 2025-02-15 10:00+0000\n"
+"PO-Revision-Date: 2025-02-15 10:00+0000\n"
+"Last-Translator: Cristch-X <soporte@minitownbay.com>\n"
+"Language-Team: Español\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.4\n"
+
+# Mensajes generales
+msgid "Lista de Deseos"
+msgstr "Lista de Deseos"
+
+msgid "Añadir a Lista de Deseos"
+msgstr "Añadir a Lista de Deseos"
+
+msgid "Quitar de Lista de Deseos"
+msgstr "Quitar de Lista de Deseos"
+
+# Mensajes de error
+msgid "Debes iniciar sesión para usar la lista de deseos."
+msgstr "Debes iniciar sesión para ver tu lista de deseos."
+
+msgid "Producto no encontrado."
+msgstr "Producto no encontrado."
+
+msgid "Datos inválidos."
+msgstr "Datos inválidos."
+
+msgid "No se pudo procesar la solicitud."
+msgstr "No se pudo procesar la solicitud."
+
+# Mensajes de éxito
+msgid "Producto añadido a tu lista de deseos."
+msgstr "Producto añadido a tu lista de deseos."
+
+msgid "Producto eliminado de tu lista de deseos."
+msgstr "Producto eliminado de tu lista de deseos."
+
+# Página de lista de deseos
+msgid "Mi Lista de Deseos"
+msgstr "Mi Lista de Deseos"
